@@ -103,15 +103,45 @@ Cette architecture permet une **📂 organisation modulaire** des ressources pro
 
 ## 📱 Démonstration Visuelle
 
-<div align="center">
-  <table align="center">
-    <tr>
-      <td align="center"><strong>Interface Principale</strong><br><img src="https://github.com/user-attachments/assets/c75e0560-4591-494e-b534-df2872aeb105" width="400" alt="Aperçu Omeka S" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 10px;"></td>
-    </tr>
-    <tr>
-      <td align="center"><em>Démo PhoneShop</em></td>
-    </tr>
-  </table>
+<div align="center" style="margin: 3rem 0;">
+
+Aperçu Principal de l'Application
+
+<div style="
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+    background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+    border-radius: 16px;
+    border: 3px solid #e2e8f0;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
+">
+
+<img src="https://github.com/user-attachments/assets/c75e0560-4591-494e-b534-df2872aeb105" 
+     alt="Interface Principale PhoneShop" 
+     style="
+        width: 100%;
+        max-width: 700px;
+        height: auto;
+        display: block;
+        margin: 0 auto;
+        border-radius: 12px;
+        border: 2px solid #cbd5e1;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+     ">
+
+<div style="text-align: center; margin-top: 1.5rem;">
+    <p style="font-size: 1.5rem; font-weight: 600; color: #1e293b; margin-bottom: 0.5rem;">
+        📱 Interface Principale PhoneShop
+    </p>
+    <p style="color: #64748b; font-size: 1.1rem; max-width: 600px; margin: 0 auto;">
+        Vue d'ensemble de la plateforme innovante combinant e-commerce, réalité augmentée 
+        et géolocalisation pour une expérience d'achat unique.
+    </p>
+</div>
+
+</div>
+
 </div>
 
 ---
