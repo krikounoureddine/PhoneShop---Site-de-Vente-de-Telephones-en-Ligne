@@ -104,30 +104,17 @@ Cette architecture permet une **📂 organisation modulaire** des ressources pro
 ## 📱 Démonstration Visuelle
 
 <div align="center">
-  <table>
+  <table align="center">
     <tr>
-      <td align="center"><strong>Interface Principale</strong><br><img src="https://github.com/user-attachments/assets/c75e0560-4591-494e-b534-df2872aeb105" width="300" alt="Aperçu Omeka S" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 10px;"></td>
+      <td align="center"><strong>Interface Principale</strong><br><img src="https://github.com/user-attachments/assets/c75e0560-4591-494e-b534-df2872aeb105" alt="Aperçu Omeka S" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 10px;"></td>
     </tr>
     <tr>
-      <td align="center"><em> Logo et identité visuelle de PhoneShop</em></td>
+      <td align="center"><em> Démo PhoneShop</em></td>
     </tr>
   </table>
 
   <br>
 
-  <table>
-    <tr>
-      <td align="center"><strong>Réalité Augmentée</strong><br><div style="width:280px; height:200px; background: linear-gradient(135deg, #1e293b, #334155); display:flex; align-items:center; justify-content:center; border-radius:12px; border:2px solid #3b82f6;"><span style="color:#94a3b8; text-align:center;">🕶️ Visualisation 3D<br><small>Modèle téléphone en GLTF</small></span></div></td>
-      <td align="center"><strong>Interface Catalogue</strong><br><div style="width:280px; height:200px; background: #f8fafc; display:flex; align-items:center; justify-content:center; border-radius:12px; border:2px dashed #cbd5e1;"><span style="color:#64748b; text-align:center;">📱 Grille de produits<br><small>Filtres et recherche</small></span></div></td>
-      <td align="center"><strong>Géolocalisation</strong><br><div style="width:280px; height:200px; background: #f0f9ff; display:flex; align-items:center; justify-content:center; border-radius:12px; border:2px dashed #7dd3fc;"><span style="color:#0369a1; text-align:center;">📍 Carte des magasins<br><small>Itinéraire optimisé</small></span></div></td>
-    </tr>
-    <tr>
-      <td align="center"><em>Visualisation produit 3D</em></td>
-      <td align="center"><em>Navigation dans le catalogue</em></td>
-      <td align="center"><em>Trouver un magasin proche</em></td>
-    </tr>
-  </table>
-</div>
 
 ---
 
@@ -136,48 +123,45 @@ Cette architecture permet une **📂 organisation modulaire** des ressources pro
 ## 📱 Galerie du Projet
 
 <div align="center">
-
-### 🏢 **Identité & Navigation**
+    <table align="center">
+        <tr>
+          <td align="center"><strong>Interface Principale</strong><br><img src="docs/Interface_Principale.gif"" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 10px;"></td>
+        </tr>
+        <tr>
+          <td align="center"><em> Démo PhoneShop</em></td>
+        </tr>
+  </table>
+    
+ 🏢 Identité & Navigation
 <table>
   <tr>
     <td align="center"><strong>Logo de l'Application</strong><br><img src="docs/Logo.jpg" width="280" alt="Logo PhoneShop" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 15px;"></td>
     <td align="center"><strong>Navigation Catalogue</strong><br><img src="docs/Navigation_dans_le_catalogue.png" width="280" alt="Navigation catalogue" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 5px;"></td>
-  </tr>
-  <tr>
-    <td align="center"><em>Identité visuelle du projet</em></td>
-    <td align="center"><em>Interface de navigation principale</em></td>
-  </tr>
-</table>
-
-### 🛍️ **Catalogue & Panier**
-<table>
-  <tr>
     <td align="center"><strong>Grille des Produits</strong><br><img src="docs/Grille_de_produits.png" width="280" alt="Grille produits" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 5px;"></td>
     <td align="center"><strong>Gestion du Panier</strong><br><img src="docs/Liste_panier.png" width="280" alt="Panier d'achat" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 5px;"></td>
   </tr>
   <tr>
+    <td align="center"><em>Identité visuelle du projet</em></td>
+    <td align="center"><em>Interface de navigation principale</em></td>
     <td align="center"><em>Affichage du catalogue produits</em></td>
     <td align="center"><em>Interface du panier utilisateur</em></td>
   </tr>
 </table>
 
-### 🚀 **Fonctionnalités Avancées**
-<table>
-  <tr>
-    <td align="center"><strong>Réalité Augmentée 3D</strong><br><img src="docs/Visualisation_3D.png" width="280" alt="Visualisation 3D" style="object-fit: contain; background: #0f172a; border-radius: 12px; border: 2px solid #3b82f6; padding: 5px;"></td>
-  </tr>
-  <tr>
-    <td align="center"><em>Visualisation interactive produit en 3D</em></td>
-  </tr>
-</table>
+🛍️ Catalogue & Panier
 
-### 📍 **Géolocalisation Magasins**
+🚀Fonctionnalités Avancées
+
+📍 Géolocalisation Magasins
+
 <table>
   <tr>
+      <td align="center"><strong>Réalité Augmentée 3D</strong><br><img src="docs/Visualisation_3D.png" width="280" alt="Visualisation 3D" style="object-fit: contain; background: #0f172a; border-radius: 12px; border: 2px solid #3b82f6; padding: 5px;"></td>
     <td align="center"><strong>Carte Magasins (Vue 1)</strong><br><img src="docs/Carte_magasins1.png" width="280" alt="Carte magasins 1" style="object-fit: contain; background: #f0f9ff; border-radius: 12px; border: 2px solid #7dd3fc; padding: 5px;"></td>
     <td align="center"><strong>Carte Magasins (Vue 2)</strong><br><img src="docs/Carte_magasins2.png" width="280" alt="Carte magasins 2" style="object-fit: contain; background: #f0f9ff; border-radius: 12px; border: 2px solid #7dd3fc; padding: 5px;"></td>
   </tr>
   <tr>
+    <td align="center"><em>Visualisation interactive produit en 3D</em></td>
     <td align="center"><em>Interface géolocalisation des points de vente</em></td>
     <td align="center"><em>Calcul d'itinéraire vers les magasins</em></td>
   </tr>
