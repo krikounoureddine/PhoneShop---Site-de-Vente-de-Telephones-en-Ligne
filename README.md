@@ -109,7 +109,7 @@ Cette architecture permet une **📂 organisation modulaire** des ressources pro
       <td align="center"><strong>Interface Principale</strong><br><img src="https://github.com/user-attachments/assets/c75e0560-4591-494e-b534-df2872aeb105" width="300" alt="Aperçu Omeka S" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 10px;"></td>
     </tr>
     <tr>
-      <td align="center"><em>Logo et identité visuelle de PhoneShop</em></td>
+      <td align="center"><em> Logo et identité visuelle de PhoneShop</em></td>
     </tr>
   </table>
 
@@ -128,8 +128,6 @@ Cette architecture permet une **📂 organisation modulaire** des ressources pro
     </tr>
   </table>
 </div>
-
-*ℹ️ Les captures d'écran interactives de l'interface utilisateur peuvent être ajoutées dans le dossier `screenshots/`.*
 
 ---
 
@@ -164,6 +162,7 @@ PhoneShop est construit sur une **architecture MVC (Modèle-Vue-Contrôleur)** r
 ## 🛠️ Technologies Utilisées  
 
 ### 🌐 **Frontend & Interface**
+
 | Technologie | Rôle dans PhoneShop |
 |-------------|---------------------|
 | **HTML5** | Structure sémantique et accessible des pages web. |
@@ -172,6 +171,7 @@ PhoneShop est construit sur une **architecture MVC (Modèle-Vue-Contrôleur)** r
 | **Three.js** | Bibliothèque 3D pour le rendu WebGL et l'intégration des modèles en réalité augmentée. |
 
 ### ⚙️ **Backend, Données & APIs**
+
 | Technologie | Rôle dans PhoneShop |
 |-------------|---------------------|
 | **API Omeka S** | **Cœur du backend.** Gère le catalogue de produits, les métadonnées et les médias de manière sécurisée et flexible via des endpoints REST. |
@@ -180,6 +180,7 @@ PhoneShop est construit sur une **architecture MVC (Modèle-Vue-Contrôleur)** r
 | **Geolocation API & OpenStreetMap** | Récupère la position de l'utilisateur et calcule les itinéraires vers les magasins. |
 
 ### 🎨 **Design & Modélisation**
+
 | Outil | Utilisation |
 |-------|-------------|
 | **Blender** | Création et export des modèles 3D des téléphones au format **GLTF/GLB**. |
@@ -229,19 +230,19 @@ PhoneShop est construit sur une **architecture MVC (Modèle-Vue-Contrôleur)** r
 
 Nous accordons une grande importance à votre avis pour améliorer PhoneShop ! Partagez vos impressions, suggestions ou signalez un bug via notre formulaire dédié.
 
-<div align="center" style="margin: 2rem 0;">
-
-### 🔗 Accéder au Formulaire
+<div align="center" style="margin: 2rem 0;"> 🔗 Accéder au Formulaire </div>
 
 [![Google Forms](https://img.shields.io/badge/📝_Remplir_le_Formulaire_de_Feedback-4285F4?style=for-the-badge&logo=googleforms&logoColor=white)](https://docs.google.com/forms/d/e/1FAIpQLScCpb0oUcjKjKOS3jqYVUL2JjcRk41NjudZenlLXVeQymFDgw/viewform?usp=sf_link)
 
 *Votre contribution est précieuse pour l'évolution du projet.*
 
-### 📲 QR Code du Formulaire
+<div align="center" style="margin: 2rem 0;"> 🔗 QR Code du Formulaire </div>
+
 ![QR Code du formulaire](docs/qrcode.png)
+
 *Scannez-moi pour accéder rapidement au formulaire*
 
-</div>
+
 
 ---
 
@@ -265,7 +266,7 @@ Le code source est ouvert pour consultation. Si le concept vous intéresse pour 
 | Membre | Rôle Principal | Lien |
 |--------|----------------|------|
 | **Krikou Nourddine** | Développeur Full-Stack, Architecture API & 3D | [![GitHub Nourddine](https://img.shields.io/badge/GitHub-Nourddine-181717?style=flat-square&logo=github)](https://github.com/krikounoureddine) |
-| **Mokrani Islam** | Développeur Frontend, Design UI/UX & Expérience Utilisateur | *Lien GitHub/Portfolio à ajouter* |
+| **Mokrani Islam** | Développeur Frontend, Design UI/UX & Expérience Utilisateur | [![GitHub Islam](https://img.shields.io/badge/GitHub-Nourddine-181717?style=flat-square&logo=github)](https://github.com/mokrani-islam) |
 
 📧 **Pour toute question concernant le projet :**
 [contact@krikou.dev](mailto:contact@krikou.dev)
@@ -282,17 +283,16 @@ PhoneShop n'est pas un simple site de vente. C'est une **preuve de concept techn
 
 > 💡 **Ce projet vous a intéressé ?** Pensez à **starifier** le [dépôt GitHub](https://github.com/krikounoureddine/Projet-du-module-Langages-et-Developpement-Web) pour soutenir notre travail !
 
-<div align="center" style="margin-top: 3rem; padding: 2rem; background: linear-gradient(to right, #f0f9ff, #e0f2fe); border-radius: 16px; border: 2px solid #bae6fd;">
-
----
-
-## 📱 PhoneShop • Redéfinir l'expérience d'achat de téléphones.
+<div align="center" style="margin-top: 3rem; padding: 2rem; background: linear-gradient(to right, #f0f9ff, #e0f2fe); border-radius: 16px; border: 2px solid #bae6fd;"> 📱 PhoneShop • Redéfinir l'expérience d'achat de téléphones. </div>
 
 [![Code Source](https://img.shields.io/badge/📂_Voir_le_Code_Source_Complet-1e40af?style=for-the-badge)](https://github.com/krikounoureddine/Projet-du-module-Langages-et-Developpement-Web)
-[![Site Démo](https://img.shields.io/badge/🌐_Visiter_le_Site_Démo-10b981?style=for-the-badge&logo=web)](https://krikounoureddine.github.io/Projet-du-module-Langages-et-Developpement-Web/)
 
-</div>
+[![Site Démo](https://img.shields.io/badge/🌐_Visiter_le_Site_Démo-10b981?style=for-the-badge&logo=web)](https://github.com/user-attachments/assets/c75e0560-4591-494e-b534-df2872aeb105)
 
+
+
+
+---------------------------------------------------------------
 # 📱 PhoneShop - Site de Vente de Téléphones en Ligne
 
 **👨‍💻 Présenté par Krikou Nourddine et Mokrani Islam**
@@ -340,10 +340,7 @@ git clone https://github.com/krikounoureddine/Projet-du-module-Langages-et-Devel
 
 Pour remplir le formulaire, [📩 cliquez ici](https://docs.google.com/forms/d/e/1FAIpQLScCpb0oUcjKjKOS3jqYVUL2JjcRk41NjudZenlLXVeQymFDgw/viewform?usp=sf_link).
 
-### 🔗 Le lien du formulaire :
-
-🔗 [Accéder au formulaire](https://docs.google.com/forms/d/e/1FAIpQLScCpb0oUcjKjKOS3jqYVUL2JjcRk41NjudZenlLXVeQymFDgw/viewform?usp=sf_link)
-
 ### 📲 QR code du formulaire :
+
 
  ![image alt](docs/qrcode.png)
