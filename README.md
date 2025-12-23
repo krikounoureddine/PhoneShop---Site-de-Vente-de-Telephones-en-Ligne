@@ -112,28 +112,17 @@ Cette architecture permet une **📂 organisation modulaire** des ressources pro
       <td align="center"><em> Démo PhoneShop</em></td>
     </tr>
   </table>
-
-  <br>
-
-
----
+</div>
 
 ---
 
 ## 📱 Galerie du Projet
 
 <div align="center">
-    <table align="center">
-        <tr>
-          <td align="center"><strong>Interface Principale</strong><br><img src="docs/Interface_Principale.gif"" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 10px;"></td>
-        </tr>
-        <tr>
-          <td align="center"><em> Démo PhoneShop</em></td>
-        </tr>
-  </table>
     
  🏢 Identité & Navigation
-<table>
+
+<table>    
   <tr>
     <td align="center"><strong>Logo de l'Application</strong><br><img src="docs/Logo.jpg" width="280" alt="Logo PhoneShop" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 15px;"></td>
     <td align="center"><strong>Navigation Catalogue</strong><br><img src="docs/Navigation_dans_le_catalogue.png" width="280" alt="Navigation catalogue" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 5px;"></td>
@@ -147,12 +136,6 @@ Cette architecture permet une **📂 organisation modulaire** des ressources pro
     <td align="center"><em>Interface du panier utilisateur</em></td>
   </tr>
 </table>
-
-🛍️ Catalogue & Panier
-
-🚀Fonctionnalités Avancées
-
-📍 Géolocalisation Magasins
 
 <table>
   <tr>
