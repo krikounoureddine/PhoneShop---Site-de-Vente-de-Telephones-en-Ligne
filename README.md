@@ -104,9 +104,6 @@ Cette architecture permet une **📂 organisation modulaire** des ressources pro
 ## 📱 Démonstration Visuelle
 
 <div align="center" style="margin: 3rem 0;">
-
-Aperçu Principal de l'Application
-
 <div style="
     max-width: 800px;
     margin: 0 auto;
