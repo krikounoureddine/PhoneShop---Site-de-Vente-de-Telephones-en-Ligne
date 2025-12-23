@@ -106,10 +106,10 @@ Cette architecture permet une **📂 organisation modulaire** des ressources pro
 <div align="center">
   <table align="center">
     <tr>
-      <td align="center"><strong>Interface Principale</strong><br><img src="https://github.com/user-attachments/assets/c75e0560-4591-494e-b534-df2872aeb105" alt="Aperçu Omeka S" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 10px;"></td>
+      <td align="center"><strong>Interface Principale</strong><br><img src="https://github.com/user-attachments/assets/c75e0560-4591-494e-b534-df2872aeb105" width="400" alt="Aperçu Omeka S" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 10px;"></td>
     </tr>
     <tr>
-      <td align="center"><em> Démo PhoneShop</em></td>
+      <td align="center"><em>Démo PhoneShop</em></td>
     </tr>
   </table>
 </div>
@@ -119,34 +119,60 @@ Cette architecture permet une **📂 organisation modulaire** des ressources pro
 ## 📱 Galerie du Projet
 
 <div align="center">
-    
- 🏢 Identité & Navigation
 
-<table>    
+<h3>🏢 Identité & Navigation</h3>
+
+<table>
   <tr>
-    <td align="center"><strong>Logo de l'Application</strong><br><img src="docs/Logo.jpg" width="280" alt="Logo PhoneShop" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 15px;"></td>
-    <td align="center"><strong>Navigation Catalogue</strong><br><img src="docs/Navigation_dans_le_catalogue.png" width="280" alt="Navigation catalogue" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 5px;"></td>
-    <td align="center"><strong>Grille des Produits</strong><br><img src="docs/Grille_de_produits.png" width="280" alt="Grille produits" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 5px;"></td>
-    <td align="center"><strong>Gestion du Panier</strong><br><img src="docs/Liste_panier.png" width="280" alt="Panier d'achat" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 5px;"></td>
+    <td align="center"><strong>Logo de l'Application</strong><br><img src="docs/Logo.jpg" width="250" alt="Logo PhoneShop" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 15px;"></td>
+    <td align="center"><strong>Navigation Catalogue</strong><br><img src="docs/Navigation_dans_le_catalogue.png" width="250" alt="Navigation catalogue" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 5px;"></td>
+    <td align="center"><strong>Grille des Produits</strong><br><img src="docs/Grille_de_produits.png" width="250" alt="Grille produits" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 5px;"></td>
   </tr>
   <tr>
     <td align="center"><em>Identité visuelle du projet</em></td>
-    <td align="center"><em>Interface de navigation principale</em></td>
-    <td align="center"><em>Affichage du catalogue produits</em></td>
+    <td align="center"><em>Interface de navigation</em></td>
+    <td align="center"><em>Catalogue produits</em></td>
+  </tr>
+</table>
+
+<br>
+
+<h3>🛒 Gestion des Achats</h3>
+
+<table>
+  <tr>
+    <td align="center"><strong>Panier d'Achat</strong><br><img src="docs/Liste_panier.png" width="350" alt="Panier d'achat" style="object-fit: contain; background: #f8fafc; border-radius: 12px; border: 2px solid #e2e8f0; padding: 5px;"></td>
+  </tr>
+  <tr>
     <td align="center"><em>Interface du panier utilisateur</em></td>
   </tr>
 </table>
 
+<br>
+
+<h3>🚀 Fonctionnalités Avancées</h3>
+
 <table>
   <tr>
-      <td align="center"><strong>Réalité Augmentée 3D</strong><br><img src="docs/Visualisation_3D.png" width="280" alt="Visualisation 3D" style="object-fit: contain; background: #0f172a; border-radius: 12px; border: 2px solid #3b82f6; padding: 5px;"></td>
+    <td align="center"><strong>Réalité Augmentée 3D</strong><br><img src="docs/Visualisation_3D.png" width="350" alt="Visualisation 3D" style="object-fit: contain; background: #0f172a; border-radius: 12px; border: 2px solid #3b82f6; padding: 5px;"></td>
+  </tr>
+  <tr>
+    <td align="center"><em>Visualisation interactive produit en 3D</em></td>
+  </tr>
+</table>
+
+<br>
+
+<h3>📍 Géolocalisation</h3>
+
+<table>
+  <tr>
     <td align="center"><strong>Carte Magasins (Vue 1)</strong><br><img src="docs/Carte_magasins1.png" width="280" alt="Carte magasins 1" style="object-fit: contain; background: #f0f9ff; border-radius: 12px; border: 2px solid #7dd3fc; padding: 5px;"></td>
     <td align="center"><strong>Carte Magasins (Vue 2)</strong><br><img src="docs/Carte_magasins2.png" width="280" alt="Carte magasins 2" style="object-fit: contain; background: #f0f9ff; border-radius: 12px; border: 2px solid #7dd3fc; padding: 5px;"></td>
   </tr>
   <tr>
-    <td align="center"><em>Visualisation interactive produit en 3D</em></td>
-    <td align="center"><em>Interface géolocalisation des points de vente</em></td>
-    <td align="center"><em>Calcul d'itinéraire vers les magasins</em></td>
+    <td align="center"><em>Points de vente géolocalisés</em></td>
+    <td align="center"><em>Calcul d'itinéraire vers magasins</em></td>
   </tr>
 </table>
 
